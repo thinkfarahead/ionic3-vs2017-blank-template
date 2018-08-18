@@ -1,0 +1,1 @@
+copy "%1\platforms\android\app\build\outputs\apk\debug\*.apk"  "%1\bin\android\debug"
